@@ -2,7 +2,7 @@
 
 **Data / AI Engineer.** Construyo sistemas que convierten datos operativos dispersos en decisiones que alguien toma hoy mismo.
 
-Trabajo en logística y reclutamiento de alto volumen: telemetría de flotas, agentes conversacionales y automatización de procesos de RR. HH. Todos mis proyectos nacieron de un problema real de una empresa en operación, no de un tutorial.
+Trabajo en logística y reclutamiento de alto volumen: telemetría de flotas, agentes conversacionales y automatización de procesos de RR. HH. Todos mis proyectos nacieron de un problema real de una empresa en operación.
 
 ---
 
